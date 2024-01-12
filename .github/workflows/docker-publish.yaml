@@ -9,7 +9,7 @@ on:
       - v*
 
 env:
-  IMAGE_NAME: java-sample:latest
+  IMAGE_NAME: java-sample
 #
 jobs:
   # This pushes the image to GitHub Packages.
